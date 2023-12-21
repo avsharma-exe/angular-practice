@@ -1,29 +1,37 @@
 <div class="row justify-content-center align-items-center g-2">
   <div class="col-xs-12">
-    <img src="#" alt="">
+    <img [src]="selectedRecipeDetails.imageUrl"
+         alt="recipe image here"
+         class="img-responsive">
   </div>
 </div>
 <div class="row justify-content-center align-items-center g-2">
   <div class="col-xs12">
-    <p class="text-center h1">Recipe Name</p>
+    <p class="text-center h1">{{selectedRecipeDetails.name}}</p>
   </div>
 </div>
 <div class="row justify-content-center align-items-center g-2">
   <div class="col-xs-12">
-    <div class="dropdown">
-      <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <div class="dropdown" appDropdown>
+      <button class="btn btn-secondary dropdown-toggle "
+              type="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="true" >
         Dropdown button
       </button>
-      <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="#">Action</a></li>
-        <li><a class="dropdown-item" href="#">Another action</a></li>
-        <li><a class="dropdown-item" href="#">Something else here</a></li>
+      <ul class="dropdown-menu " >
+        <li><a class="dropdown-item"
+             href="#">Action</a></li>
+        <li><a class="dropdown-item"
+             href="#">Another action</a></li>
+        <li><a class="dropdown-item"
+             href="#">Something else here</a></li>
       </ul>
     </div>
   </div>
 </div>
 <div class="row justify-content-center align-items-center g-2">
-  <div class="col-xs-12">Description</div>
+  <div class="col-xs-12">{{selectedRecipeDetails.description}}</div>
 </div>
 <div class="row justify-content-center align-items-center g-2">
   <div class="col-xs-12">Ingredints</div>

@@ -1,4 +1,14 @@
 <div class="row justify-content-center align-items-center g-2">
-  <div class="col-md-4"><app-recipe-list></app-recipe-list></div>
-  <div class="col-md-8"><app-recipe-detail></app-recipe-detail></div>
+  <div class="col-md-4">
+    <app-recipe-list (recipeSelection)="displayDetails($event)"></app-recipe-list>
+  </div>
+  <div class="col-md-8">
+    <app-recipe-detail [selectedRecipeDetails]="recipe"
+    *ngIf = "recipe; else noRecipe"></app-recipe-detail>
+    <ng-template #noRecipe>
+      <h2>
+        Please selet a recipe
+      </h2>
+    </ng-template>
+  </div>
 </div>

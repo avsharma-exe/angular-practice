@@ -13,4 +13,8 @@ export class ShoppingListComponent {
     new Ingredient("Rice",2,"Kg")
   ];
 
+  updateShoppingListItems(updatedIngredient:Ingredient){
+    this.ingredients.push(updatedIngredient);
+  }
+
 }

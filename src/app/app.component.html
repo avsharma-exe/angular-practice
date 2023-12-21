@@ -1,23 +1,7 @@
-<app-header></app-header>
+<app-header (navSelection)="navControl($event)"></app-header>
 <div class="container">
   <div class="row justify-content-center align-items-center g-2">
-    <div class="col-md-12"><app-recipes></app-recipes></div>
-    <div class="col-md-12"><app-shopping-list></app-shopping-list></div>
+    <div class="col-md-12" *ngIf="selectedNav === 'recipe-list'"><app-recipes></app-recipes></div>
+    <div class="col-md-12" *ngIf="selectedNav === 'shopping-list'"><app-shopping-list></app-shopping-list></div>
   </div>
 </div>
-<!-- <app-game-cotroller (gameValue)="valueUpdater($event)"></app-game-cotroller>
-<div class="row" *ngIf="isStarted;else startGameDiv">
-  <div class="col-xs-12">
-    <p class="h4">Divs Here</p>
-    <div class="col-sm-12 col-md-6" *ngFor="let item of oddValue">
-      <app-odd-element [currVal]="item"></app-odd-element>
-    </div>
-    <div class="col-sm-12 col-md-6" *ngFor="let item of evenValue">
-      <app-even-element [currVal]="item"></app-even-element>
-    </div>
-  </div>
-</div>
-
-<ng-template #startGameDiv>
-  <p>Press start to start the div creation game!</p>
-</ng-template> -->

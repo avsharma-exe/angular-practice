@@ -1,0 +1,356 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.6",
+  "deps": {
+    "@angular/animations": "^17.0.0",
+    "@angular/common": "^17.0.0",
+    "@angular/compiler": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "@angular/forms": "^17.0.0",
+    "@angular/platform-browser": "^17.0.0",
+    "@angular/platform-browser-dynamic": "^17.0.0",
+    "@angular/router": "^17.0.0",
+    "bootstrap": "^5.3.2",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.2",
+    "@angular-devkit/build-angular": "^17.0.6",
+    "@angular-devkit/core": "^17.0.6",
+    "@angular-devkit/schematics": "^17.0.6",
+    "@angular/cli": "^17.0.6",
+    "@angular/compiler-cli": "^17.0.0",
+    "@nx/angular": "17.2.6",
+    "@nx/workspace": "17.2.6",
+    "@schematics/angular": "^17.0.6",
+    "@types/jasmine": "~5.1.0",
+    "jasmine-core": "~5.1.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "nx": "17.2.6",
+    "typescript": "~5.2.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "recipe-app": [
+        {
+          "file": ".editorconfig",
+          "hash": "6686520031028425313"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "13044518069027839699"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "12343942279124280405"
+        },
+        {
+          "file": ".vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": ".vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "README.md",
+          "hash": "1658698738981330314"
+        },
+        {
+          "file": "nx.json",
+          "hash": "5732690817361915800"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "5425403334773098581"
+        },
+        {
+          "file": "package.json",
+          "hash": "14199106615903254293",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/common",
+            "npm:@angular/compiler",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/platform-browser",
+            "npm:@angular/platform-browser-dynamic",
+            "npm:@angular/router",
+            "npm:bootstrap",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:zone.js",
+            "npm:@angular-devkit/build-angular",
+            "npm:@angular-devkit/core",
+            "npm:@angular-devkit/schematics",
+            "npm:@angular/cli",
+            "npm:@angular/compiler-cli",
+            "npm:@nx/angular",
+            "npm:@nx/workspace",
+            "npm:@schematics/angular",
+            "npm:@types/jasmine",
+            "npm:jasmine-core",
+            "npm:karma",
+            "npm:karma-chrome-launcher",
+            "npm:karma-coverage",
+            "npm:karma-jasmine",
+            "npm:karma-jasmine-html-reporter",
+            "npm:nx",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "project.json",
+          "hash": "1468536431026406301"
+        },
+        {
+          "file": "src/app/app.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/app.component.html",
+          "hash": "11981717449023380962"
+        },
+        {
+          "file": "src/app/app.component.spec.ts",
+          "hash": "16640505114437302876",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/app.component.ts",
+          "hash": "9760369546482583863",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/app.module.ts",
+          "hash": "7921095770311909797",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/platform-browser"
+          ]
+        },
+        {
+          "file": "src/app/header/header.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/header/header.component.html",
+          "hash": "2120484691272749450"
+        },
+        {
+          "file": "src/app/header/header.component.spec.ts",
+          "hash": "6260778631171542638",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/header/header.component.ts",
+          "hash": "11559469895363854540",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipe-detail/recipe-detail.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/recipes/recipe-detail/recipe-detail.component.html",
+          "hash": "17257911911267960068"
+        },
+        {
+          "file": "src/app/recipes/recipe-detail/recipe-detail.component.spec.ts",
+          "hash": "3065371859161026442",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipe-detail/recipe-detail.component.ts",
+          "hash": "1422526526133391533",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.html",
+          "hash": "16631381857359910827"
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.spec.ts",
+          "hash": "12688014257160252818",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts",
+          "hash": "14218842077886812899",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-list.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-list.component.html",
+          "hash": "14718028735908587444"
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-list.component.spec.ts",
+          "hash": "8766072628450084765",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipe-list/recipe-list.component.ts",
+          "hash": "8834702500278486373",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipe.model.ts",
+          "hash": "4657097066731433975"
+        },
+        {
+          "file": "src/app/recipes/recipes.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/recipes/recipes.component.html",
+          "hash": "9346166203120742576"
+        },
+        {
+          "file": "src/app/recipes/recipes.component.spec.ts",
+          "hash": "6785859445960475348",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/recipes/recipes.component.ts",
+          "hash": "13904327400967679544",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/dropdown.directive.ts",
+          "hash": "2583139223114970233",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/ingredient.model.ts",
+          "hash": "15077279247109890136"
+        },
+        {
+          "file": "src/app/shared/navbar.directive.ts",
+          "hash": "9438923898321538718",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shopping-list/shopping-edit/shopping-edit.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shopping-list/shopping-edit/shopping-edit.component.html",
+          "hash": "5659519869609248601"
+        },
+        {
+          "file": "src/app/shopping-list/shopping-edit/shopping-edit.component.spec.ts",
+          "hash": "6280809394282901780",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+          "hash": "1491208363135662417",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shopping-list/shopping-list.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shopping-list/shopping-list.component.html",
+          "hash": "3704658540857873867"
+        },
+        {
+          "file": "src/app/shopping-list/shopping-list.component.spec.ts",
+          "hash": "11565245682295812197",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shopping-list/shopping-list.component.ts",
+          "hash": "3700885873137447585",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/favicon.ico",
+          "hash": "3988961587069885523"
+        },
+        {
+          "file": "src/index.html",
+          "hash": "14332352027109030274"
+        },
+        {
+          "file": "src/main.ts",
+          "hash": "12246588107753938993",
+          "deps": [
+            "npm:@angular/platform-browser-dynamic"
+          ]
+        },
+        {
+          "file": "src/styles.css",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "17337579397915052279"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "13751046669024999357"
+        },
+        {
+          "file": "tsconfig.spec.json",
+          "hash": "15575553540147145788"
+        }
+      ]
+    }
+  }
+}

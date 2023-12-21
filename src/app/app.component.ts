@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -12,6 +12,8 @@ export class AppComponent {
   oddValue:Array<number> = [];
   evenValue:Array<number> = [];
 
+  @Input() selectedNav:string = 'recipe-list';
+
   valueUpdater(data) {
     this.gameValue = data.value;
     this.isStarted = data.isStarted;
@@ -20,5 +22,9 @@ export class AppComponent {
     }else{
       this.oddValue.push(data.value)
     }
+  }
+
+  navControl(selectedNav:string){
+    this.selectedNav = selectedNav;
   }
 }
