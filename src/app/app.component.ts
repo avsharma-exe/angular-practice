@@ -7,4 +7,18 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'recipe-app';
+  gameValue = 0;
+  isStarted:boolean;
+  oddValue:Array<number> = [];
+  evenValue:Array<number> = [];
+
+  valueUpdater(data) {
+    this.gameValue = data.value;
+    this.isStarted = data.isStarted;
+    if(data.value % 2 === 0 ){
+      this.evenValue.push(data.value)
+    }else{
+      this.oddValue.push(data.value)
+    }
+  }
 }
