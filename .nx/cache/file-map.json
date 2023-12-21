@@ -1,0 +1,175 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.6",
+  "deps": {
+    "@angular/animations": "^17.0.0",
+    "@angular/common": "^17.0.0",
+    "@angular/compiler": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "@angular/forms": "^17.0.0",
+    "@angular/platform-browser": "^17.0.0",
+    "@angular/platform-browser-dynamic": "^17.0.0",
+    "@angular/router": "^17.0.0",
+    "bootstrap": "^5.3.2",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.2",
+    "@angular-devkit/build-angular": "^17.0.6",
+    "@angular/cli": "^17.0.6",
+    "@angular/compiler-cli": "^17.0.0",
+    "@types/jasmine": "~5.1.0",
+    "jasmine-core": "~5.1.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "typescript": "~5.2.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "recipe-app": [
+        {
+          "file": ".editorconfig",
+          "hash": "6686520031028425313"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "13044518069027839699"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "11934160580685414355"
+        },
+        {
+          "file": ".vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": ".vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "README.md",
+          "hash": "1658698738981330314"
+        },
+        {
+          "file": "angular.json",
+          "hash": "18398612016574238248"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "15799185722756213291"
+        },
+        {
+          "file": "package.json",
+          "hash": "7128875639179241229",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/common",
+            "npm:@angular/compiler",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/platform-browser",
+            "npm:@angular/platform-browser-dynamic",
+            "npm:@angular/router",
+            "npm:bootstrap",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:zone.js",
+            "npm:@angular-devkit/build-angular",
+            "npm:@angular/cli",
+            "npm:@angular/compiler-cli",
+            "npm:@types/jasmine",
+            "npm:jasmine-core",
+            "npm:karma",
+            "npm:karma-chrome-launcher",
+            "npm:karma-coverage",
+            "npm:karma-jasmine",
+            "npm:karma-jasmine-html-reporter",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "src/app/active-users/active-users.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/active-users/active-users.component.html",
+          "hash": "10799119345596337511"
+        },
+        {
+          "file": "src/app/active-users/active-users.component.ts",
+          "hash": "3626436287708896094"
+        },
+        {
+          "file": "src/app/app.component.css",
+          "hash": "10234745984003005861"
+        },
+        {
+          "file": "src/app/app.component.html",
+          "hash": "16076393793805834465"
+        },
+        {
+          "file": "src/app/app.component.spec.ts",
+          "hash": "11164805656760650989"
+        },
+        {
+          "file": "src/app/app.component.ts",
+          "hash": "10366383648893710674"
+        },
+        {
+          "file": "src/app/app.module.ts",
+          "hash": "16518928782942430481"
+        },
+        {
+          "file": "src/app/inactive-users/inactive-users.component.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/inactive-users/inactive-users.component.html",
+          "hash": "2580117986790869360"
+        },
+        {
+          "file": "src/app/inactive-users/inactive-users.component.ts",
+          "hash": "14856195899862133751"
+        },
+        {
+          "file": "src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/favicon.ico",
+          "hash": "3988961587069885523"
+        },
+        {
+          "file": "src/index.html",
+          "hash": "18173707384215721842"
+        },
+        {
+          "file": "src/main.ts",
+          "hash": "12246588107753938993"
+        },
+        {
+          "file": "src/styles.css",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "17337579397915052279"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "13751046669024999357"
+        },
+        {
+          "file": "tsconfig.spec.json",
+          "hash": "15575553540147145788"
+        }
+      ]
+    },
+    "nonProjectFiles": []
+  }
+}
