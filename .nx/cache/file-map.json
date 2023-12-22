@@ -35,7 +35,68 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "nonProjectFiles": [],
+    "nonProjectFiles": [
+      {
+        "file": "src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+        "hash": "14795732450535734647"
+      },
+      {
+        "file": "src/app/recipes/recipe.model.ts",
+        "hash": "7639702473457853355"
+      },
+      {
+        "file": "src/app/shopping-list/shopping-list.component.html",
+        "hash": "17377518980601498076"
+      },
+      {
+        "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.html",
+        "hash": "1762878581138365555"
+      },
+      {
+        "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts",
+        "hash": "5290634398581256087"
+      },
+      {
+        "file": "src/app/recipes/recipes.component.ts",
+        "hash": "10465882413478075512"
+      },
+      {
+        "file": "src/app/recipes/recipe-list/recipe-list.component.html",
+        "hash": "12221577568473484896"
+      },
+      {
+        "file": "src/app/shared/shopping-list.service.ts",
+        "hash": "2766414719444847990"
+      },
+      {
+        "file": "src/app/shared/navbar.directive.ts",
+        "hash": "15495114331799290495"
+      },
+      {
+        "file": "src/app/recipes/recipe-detail/recipe-detail.component.ts",
+        "hash": "7799805598298531545"
+      },
+      {
+        "file": "src/app/shopping-list/shopping-list.component.ts",
+        "hash": "5834358250491320522"
+      },
+      {
+        "file": "src/app/recipes/recipes.component.html",
+        "hash": "12486990613934340136"
+      },
+      {
+        "file": "src/app/recipes/recipe.service.ts",
+        "hash": "15210718955300524115"
+      },
+      {
+        "file": "src/app/recipes/recipe-list/recipe-list.component.ts",
+        "hash": "10473729058879841351"
+      },
+      {
+        "file": "src/app/recipes/recipe-detail/recipe-detail.component.html",
+        "hash": "11494000659699026539"
+      }
+    ],
     "projectFileMap": {
       "recipe-app": [
         {
@@ -44,11 +105,11 @@
         },
         {
           "file": ".gitignore",
-          "hash": "13044518069027839699"
+          "hash": "5343439570637836191"
         },
         {
           "file": ".vscode/extensions.json",
-          "hash": "12343942279124280405"
+          "hash": "6740797025222968025"
         },
         {
           "file": ".vscode/launch.json",
@@ -64,15 +125,15 @@
         },
         {
           "file": "nx.json",
-          "hash": "5732690817361915800"
+          "hash": "12491996003856590724"
         },
         {
           "file": "package-lock.json",
-          "hash": "5425403334773098581"
+          "hash": "9629847628767367166"
         },
         {
           "file": "package.json",
-          "hash": "14199106615903254293",
+          "hash": "214640868388502555",
           "deps": [
             "npm:@angular/animations",
             "npm:@angular/common",
@@ -107,7 +168,7 @@
         },
         {
           "file": "project.json",
-          "hash": "1468536431026406301"
+          "hash": "16033115001167323964"
         },
         {
           "file": "src/app/app.component.css",
@@ -119,14 +180,14 @@
         },
         {
           "file": "src/app/app.component.spec.ts",
-          "hash": "16640505114437302876",
+          "hash": "6957062891154348540",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "9760369546482583863",
+          "hash": "11502696690736930465",
           "deps": [
             "npm:@angular/core"
           ]
@@ -232,6 +293,13 @@
           "hash": "4657097066731433975"
         },
         {
+          "file": "src/app/recipes/recipe.service.ts",
+          "hash": "7707439919321353455",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
           "file": "src/app/recipes/recipes.component.css",
           "hash": "3244421341483603138"
         },
@@ -255,7 +323,7 @@
         },
         {
           "file": "src/app/shared/dropdown.directive.ts",
-          "hash": "2583139223114970233",
+          "hash": "6846769389844225295",
           "deps": [
             "npm:@angular/core"
           ]
@@ -266,7 +334,7 @@
         },
         {
           "file": "src/app/shared/navbar.directive.ts",
-          "hash": "9438923898321538718",
+          "hash": "17696620670585197241",
           "deps": [
             "npm:@angular/core"
           ]
@@ -325,7 +393,7 @@
         },
         {
           "file": "src/index.html",
-          "hash": "14332352027109030274"
+          "hash": "13768072372700795243"
         },
         {
           "file": "src/main.ts",
