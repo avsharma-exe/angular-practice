@@ -37,64 +37,96 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
-        "hash": "14795732450535734647"
+        "file": "src/app/recipes/recipe-start/recipe-start.component.ts",
+        "hash": "15956711217579450508"
       },
       {
-        "file": "src/app/recipes/recipe.model.ts",
-        "hash": "7639702473457853355"
+        "file": "src/app/recipes/recipe-start/recipe-start.component.css",
+        "hash": "3244421341483603138"
       },
       {
-        "file": "src/app/shopping-list/shopping-list.component.html",
-        "hash": "17377518980601498076"
+        "file": "src/app/recipes/recipe-start/recipe-start.component.html",
+        "hash": "10274128868277181528"
       },
       {
-        "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.html",
-        "hash": "1762878581138365555"
+        "file": "src/app/recipes/recipe-detail/recipe-detail.component.html",
+        "hash": "9788282878150884997"
       },
       {
-        "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts",
-        "hash": "5290634398581256087"
-      },
-      {
-        "file": "src/app/recipes/recipes.component.ts",
-        "hash": "10465882413478075512"
+        "file": "src/app/app.component.html",
+        "hash": "15723352882365857965"
       },
       {
         "file": "src/app/recipes/recipe-list/recipe-list.component.html",
         "hash": "12221577568473484896"
       },
       {
-        "file": "src/app/shared/shopping-list.service.ts",
-        "hash": "2766414719444847990"
-      },
-      {
         "file": "src/app/shared/navbar.directive.ts",
         "hash": "15495114331799290495"
       },
       {
-        "file": "src/app/recipes/recipe-detail/recipe-detail.component.ts",
-        "hash": "7799805598298531545"
+        "file": "src/app/recipes/recipe.model.ts",
+        "hash": "7639702473457853355"
+      },
+      {
+        "file": "src/app/recipes/recipe.service.ts",
+        "hash": "1763915792573373045"
+      },
+      {
+        "file": "src/app/app.module.ts",
+        "hash": "1093286246136164316"
+      },
+      {
+        "file": "src/app/header/header.component.html",
+        "hash": "5665128567538505818"
+      },
+      {
+        "file": "src/app/recipes/recipes.component.ts",
+        "hash": "10465882413478075512"
+      },
+      {
+        "file": "src/app/app-routing.module.ts",
+        "hash": "9285099756554452491"
+      },
+      {
+        "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts",
+        "hash": "3561458157055620750"
       },
       {
         "file": "src/app/shopping-list/shopping-list.component.ts",
         "hash": "5834358250491320522"
       },
       {
-        "file": "src/app/recipes/recipes.component.html",
-        "hash": "12486990613934340136"
+        "file": "src/app/shopping-list/shopping-list.component.html",
+        "hash": "6994866213413035701"
       },
       {
-        "file": "src/app/recipes/recipe.service.ts",
-        "hash": "15210718955300524115"
+        "file": "src/app/shared/shopping-list.service.ts",
+        "hash": "2766414719444847990"
       },
       {
         "file": "src/app/recipes/recipe-list/recipe-list.component.ts",
         "hash": "10473729058879841351"
       },
       {
-        "file": "src/app/recipes/recipe-detail/recipe-detail.component.html",
-        "hash": "11494000659699026539"
+        "file": "src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+        "hash": "14795732450535734647"
+      },
+      {
+        "file": "src/app/recipes/recipe-detail/recipe-detail.component.ts",
+        "hash": "5081099145526824554"
+      },
+      {
+        "file": "src/app/recipes/recipe-start/recipe-start.component.spec.ts",
+        "hash": "5427426475074305751"
+      },
+      {
+        "file": "src/app/recipes/recipes.component.html",
+        "hash": "11476436843084178209"
+      },
+      {
+        "file": "src/app/recipes/recipe-list/recipe-item/recipe-item.component.html",
+        "hash": "6755526739249255922"
       }
     ],
     "projectFileMap": {

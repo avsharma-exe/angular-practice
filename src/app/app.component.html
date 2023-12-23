@@ -1,7 +1,6 @@
 <app-header (navSelection)="navControl($event)"></app-header>
 <div class="container">
   <div class="row justify-content-center align-items-center g-2">
-    <div class="col-md-12" *ngIf="selectedNav === 'recipe-list'"><app-recipes></app-recipes></div>
-    <div class="col-md-12" *ngIf="selectedNav === 'shopping-list'"><app-shopping-list></app-shopping-list></div>
+    <router-outlet></router-outlet>
   </div>
 </div>

@@ -23,11 +23,10 @@
       </button>
       <ul class="dropdown-menu ">
         <li><a class="dropdown-item"
-             href="#" (click)="updateShoppingList(selectedRecipeDetails.ingredients)">Add to list</a></li>
-        <li><a class="dropdown-item"
-             href="#">Another action</a></li>
-        <li><a class="dropdown-item"
-             href="#">Something else here</a></li>
+          style="cursor: pointer;"
+             (click)="updateShoppingList(selectedRecipeDetails.ingredients)">Add to list</a></li>
+        <li><a class="dropdown-item" style="cursor: pointer;">Another action</a></li>
+        <li><a class="dropdown-item" style="cursor: pointer;">Something else here</a></li>
       </ul>
     </div>
   </div>
@@ -39,8 +38,10 @@
   <div class="col-xs-12">
     <p class="text-center">Ingredients</p>
     <div class="list-group">
-      <a href="#" class="list-group-item list-group-item-action" *ngFor="let ingredient of selectedRecipeDetails.ingredients">
-        {{ingredient.name}}  - ({{ingredient.quantity}} {{ingredient.punit}})
+      <a style="cursor: pointer;"
+         class="list-group-item list-group-item-action"
+         *ngFor="let ingredient of selectedRecipeDetails.ingredients">
+        {{ingredient.name}} - ({{ingredient.quantity}} {{ingredient.punit}})
       </a>
     </div>
   </div>

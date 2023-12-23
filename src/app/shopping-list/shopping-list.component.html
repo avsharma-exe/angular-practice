@@ -3,7 +3,7 @@
     <app-shopping-edit></app-shopping-edit>
     <hr/>
     <div class="list-group">
-      <a href="#" class="list-group-item list-group-item-action" *ngFor="let ingredient of ingredientList">
+      <a style="cursor: pointer;" class="list-group-item list-group-item-action" *ngFor="let ingredient of ingredientList">
         {{ingredient.name}}  - ({{ingredient.quantity}} {{ingredient.punit}})
       </a>
     </div>

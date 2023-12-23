@@ -924,3 +924,360 @@
 [NX Daemon Server] - 2023-12-22T13:44:57.968Z - Time taken for 'hash changed files from watcher' 1.2275000214576721ms
 [NX Daemon Server] - 2023-12-22T13:47:11.725Z - Closed a connection. Number of open connections: 1
 [NX Daemon Server] - 2023-12-22T13:47:11.819Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T14:48:03.306Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:48:03.311Z - [WATCHER]: src/app/app-routing.module.ts was created or restored
+[NX Daemon Server] - 2023-12-22T14:48:03.415Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T14:48:03.415Z - [REQUEST]: src/app/app-routing.module.ts
+[NX Daemon Server] - 2023-12-22T14:48:03.415Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T14:48:03.509Z - Time taken for 'hash changed files from watcher' 1.0697999596595764ms
+[NX Daemon Server] - 2023-12-22T14:52:44.613Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:52:44.615Z - [WATCHER]: src/app/app-routing.module.ts was modified
+[NX Daemon Server] - 2023-12-22T14:52:44.899Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T14:52:44.899Z - [REQUEST]: src/app/app-routing.module.ts
+[NX Daemon Server] - 2023-12-22T14:52:44.899Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T14:52:45.133Z - Time taken for 'hash changed files from watcher' 1.1127000451087952ms
+[NX Daemon Server] - 2023-12-22T14:57:40.860Z - [WATCHER]: src/app/app-routing.module.ts was modified
+[NX Daemon Server] - 2023-12-22T14:57:41.069Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:57:41.124Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:57:41.126Z - [WATCHER]: src/app/app-routing.module.ts was modified
+[NX Daemon Server] - 2023-12-22T14:57:41.470Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T14:57:41.470Z - [REQUEST]: src/app/app-routing.module.ts
+[NX Daemon Server] - 2023-12-22T14:57:41.470Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T14:57:41.540Z - Time taken for 'hash changed files from watcher' 0.7325000166893005ms
+[NX Daemon Server] - 2023-12-22T14:57:53.660Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-22T14:57:53.661Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:57:54.465Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T14:57:54.465Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T14:57:54.465Z - [REQUEST]: 
+ERROR (1) when writing 
+EPERM: operation not permitted, rename 'F:\Portfolio\recipe-app\.nx\cache\project-graph.json~9d460149' -> 'F:\Portfolio\recipe-app\.nx\cache\project-graph.json'
+Error: EPERM: operation not permitted, rename 'F:\Portfolio\recipe-app\.nx\cache\project-graph.json~9d460149' -> 'F:\Portfolio\recipe-app\.nx\cache\project-graph.json'
+    at renameSync (node:fs:1042:3)
+    at writeCache (F:\Portfolio\recipe-app\node_modules\nx\src\project-graph\nx-deps-cache.js:102:39)
+    at buildProjectGraphUsingProjectFileMap (F:\Portfolio\recipe-app\node_modules\nx\src\project-graph\build-project-graph.js:71:40)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createAndSerializeProjectGraph (F:\Portfolio\recipe-app\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:175:55)
+    at async Timeout._onTimeout (F:\Portfolio\recipe-app\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:81:13)
+[NX Daemon Server] - 2023-12-22T14:57:54.708Z - Time taken for 'hash changed files from watcher' 1.4700999855995178ms
+[NX Daemon Server] - 2023-12-22T14:58:20.723Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-22T14:58:20.724Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:58:22.325Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T14:58:22.325Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-22T14:58:22.326Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T14:58:22.460Z - Time taken for 'hash changed files from watcher' 0.7712999582290649ms
+[NX Daemon Server] - 2023-12-22T14:58:38.771Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T14:58:38.772Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T14:58:38.772Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T14:58:38.776Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T14:58:38.776Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T14:58:38.781Z - Time taken for 'total for creating and serializing project graph' 0.5906000137329102ms
+[NX Daemon Server] - 2023-12-22T14:58:38.785Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T14:58:38.786Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 10.
+[NX Daemon Server] - 2023-12-22T14:58:39.127Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-22T14:58:39.129Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-22T14:58:39.129Z - Handled HASH_TASKS. Handling time: 43. Response time: 2.
+[NX Daemon Server] - 2023-12-22T14:58:43.098Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T14:58:43.099Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T14:58:43.100Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T14:58:43.103Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T14:58:43.103Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T14:58:43.106Z - Time taken for 'total for creating and serializing project graph' 0.30939996242523193ms
+[NX Daemon Server] - 2023-12-22T14:58:43.106Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T14:58:43.107Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-12-22T14:58:52.285Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:58:53.476Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:58:53.646Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:59:06.204Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:59:06.266Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:59:16.416Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:59:42.577Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T14:59:42.579Z - [WATCHER]: src/app/app-routing.module.ts was modified
+[NX Daemon Server] - 2023-12-22T14:59:42.694Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T14:59:42.695Z - [REQUEST]: src/app/app-routing.module.ts
+[NX Daemon Server] - 2023-12-22T14:59:42.695Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T14:59:42.762Z - Time taken for 'hash changed files from watcher' 0.7673999667167664ms
+[NX Daemon Server] - 2023-12-22T14:59:43.163Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:00:41.804Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:00:41.874Z - [WATCHER]: src/app/header/header.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:00:42.084Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:00:42.084Z - [REQUEST]: src/app/header/header.component.html
+[NX Daemon Server] - 2023-12-22T15:00:42.084Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:00:42.219Z - Time taken for 'hash changed files from watcher' 0.299500048160553ms
+[NX Daemon Server] - 2023-12-22T15:01:12.003Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:01:12.004Z - [WATCHER]: src/app/header/header.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:01:12.359Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:01:12.406Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:01:12.406Z - [REQUEST]: src/app/header/header.component.html
+[NX Daemon Server] - 2023-12-22T15:01:12.406Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:01:12.460Z - Time taken for 'hash changed files from watcher' 0.3022000193595886ms
+[NX Daemon Server] - 2023-12-22T15:01:43.780Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:01:43.782Z - [WATCHER]: src/app/header/header.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:01:44.304Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:01:44.586Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:01:44.586Z - [REQUEST]: src/app/header/header.component.html
+[NX Daemon Server] - 2023-12-22T15:01:44.587Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:01:44.743Z - Time taken for 'hash changed files from watcher' 1.323799967765808ms
+[NX Daemon Server] - 2023-12-22T15:02:39.256Z - [WATCHER]: src/app/header/header.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:02:39.256Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:02:39.646Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:02:40.860Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:02:40.861Z - [REQUEST]: src/app/header/header.component.html
+[NX Daemon Server] - 2023-12-22T15:02:40.861Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:02:41.046Z - Time taken for 'hash changed files from watcher' 0.5943000316619873ms
+[NX Daemon Server] - 2023-12-22T15:03:33.419Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:03:33.636Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:03:33.850Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:03:33.852Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:03:34.152Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:03:36.845Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:03:36.846Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html
+[NX Daemon Server] - 2023-12-22T15:03:36.846Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:03:36.924Z - Time taken for 'hash changed files from watcher' 1.055899977684021ms
+[NX Daemon Server] - 2023-12-22T15:04:45.788Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:04:45.788Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:04:46.380Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:04:52.191Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:04:52.192Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.html
+[NX Daemon Server] - 2023-12-22T15:04:52.192Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:04:52.271Z - Time taken for 'hash changed files from watcher' 0.8779000043869019ms
+[NX Daemon Server] - 2023-12-22T15:05:11.422Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:05:11.423Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:05:11.965Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:05:17.837Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:05:17.837Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.html
+[NX Daemon Server] - 2023-12-22T15:05:17.837Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:05:17.890Z - Time taken for 'hash changed files from watcher' 0.25269997119903564ms
+[NX Daemon Server] - 2023-12-22T15:05:35.989Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:05:35.990Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:05:36.443Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:05:42.395Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:05:42.395Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.html
+[NX Daemon Server] - 2023-12-22T15:05:42.395Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:05:42.443Z - Time taken for 'hash changed files from watcher' 0.3428000211715698ms
+[NX Daemon Server] - 2023-12-22T15:06:34.685Z - [WATCHER]: src/app/shopping-list/shopping-list.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:06:34.979Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:06:35.040Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:06:35.042Z - [WATCHER]: src/app/shopping-list/shopping-list.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:06:35.150Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:06:35.414Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:06:41.394Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:06:41.394Z - [REQUEST]: src/app/shopping-list/shopping-list.component.html
+[NX Daemon Server] - 2023-12-22T15:06:41.394Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:06:41.477Z - Time taken for 'hash changed files from watcher' 0.43950003385543823ms
+[NX Daemon Server] - 2023-12-22T15:06:43.192Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:06:43.194Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:06:49.601Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:06:49.601Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.html
+[NX Daemon Server] - 2023-12-22T15:06:49.602Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:06:49.670Z - Time taken for 'hash changed files from watcher' 1.4853999614715576ms
+[NX Daemon Server] - 2023-12-22T15:11:32.495Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T15:11:32.500Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T15:11:32.500Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-22T15:11:32.502Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-22T15:11:32.502Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-22T15:11:32.505Z - Time taken for 'total for creating and serializing project graph' 0.4599999785423279ms
+[NX Daemon Server] - 2023-12-22T15:11:32.506Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-22T15:11:32.506Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-12-22T15:11:42.787Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-22T15:11:42.789Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:11:42.790Z - [WATCHER]: 4 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-12-22T15:11:42.897Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:11:42.897Z - [REQUEST]: src/app/recipes/recipe-start/recipe-start.component.html,src/app/recipes/recipe-start/recipe-start.component.ts,src/app/recipes/recipe-start/recipe-start.component.spec.ts,src/app/recipes/recipe-start/recipe-start.component.css,src/app/app.module.ts
+[NX Daemon Server] - 2023-12-22T15:11:42.897Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:11:42.959Z - Time taken for 'hash changed files from watcher' 0.5672000050544739ms
+[NX Daemon Server] - 2023-12-22T15:11:43.379Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:11:57.412Z - [WATCHER]: src/app/app-routing.module.ts was modified
+[NX Daemon Server] - 2023-12-22T15:11:57.412Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:11:57.614Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:11:57.614Z - [REQUEST]: src/app/app-routing.module.ts
+[NX Daemon Server] - 2023-12-22T15:11:57.615Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:11:57.772Z - Time taken for 'hash changed files from watcher' 0.4343000054359436ms
+[NX Daemon Server] - 2023-12-22T15:11:57.879Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:13:17.919Z - [WATCHER]: src/app/recipes/recipe-start/recipe-start.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:13:18.135Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:13:18.387Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:13:18.389Z - [WATCHER]: src/app/recipes/recipe-start/recipe-start.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:13:18.543Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:13:18.544Z - [REQUEST]: src/app/recipes/recipe-start/recipe-start.component.html
+[NX Daemon Server] - 2023-12-22T15:13:18.544Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:13:18.822Z - Time taken for 'hash changed files from watcher' 0.7854999899864197ms
+[NX Daemon Server] - 2023-12-22T15:14:29.226Z - [WATCHER]: src/app/recipes/recipe-start/recipe-start.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:14:29.433Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:14:29.628Z - [WATCHER]: src/app/recipes/recipe-start/recipe-start.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:14:29.629Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:14:30.238Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:14:30.238Z - [REQUEST]: src/app/recipes/recipe-start/recipe-start.component.html
+[NX Daemon Server] - 2023-12-22T15:14:30.239Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:14:30.316Z - Time taken for 'hash changed files from watcher' 0.5733000040054321ms
+[NX Daemon Server] - 2023-12-22T15:15:17.403Z - [WATCHER]: src/app/recipes/recipes.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:15:17.467Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:15:17.529Z - [WATCHER]: src/app/recipes/recipes.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:15:17.529Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:15:19.070Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:15:19.070Z - [REQUEST]: src/app/recipes/recipes.component.html
+[NX Daemon Server] - 2023-12-22T15:15:19.070Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:15:19.152Z - Time taken for 'hash changed files from watcher' 0.5882999897003174ms
+[NX Daemon Server] - 2023-12-22T15:16:38.769Z - [WATCHER]: src/app/app-routing.module.ts was modified
+[NX Daemon Server] - 2023-12-22T15:16:38.769Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:16:39.162Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:16:41.982Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:16:41.982Z - [REQUEST]: src/app/app-routing.module.ts
+[NX Daemon Server] - 2023-12-22T15:16:41.983Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:16:42.049Z - Time taken for 'hash changed files from watcher' 1.079800009727478ms
+[NX Daemon Server] - 2023-12-22T15:18:04.105Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:18:04.107Z - [WATCHER]: src/app/app-routing.module.ts was modified
+[NX Daemon Server] - 2023-12-22T15:18:04.479Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:18:10.510Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:18:10.510Z - [REQUEST]: src/app/app-routing.module.ts
+[NX Daemon Server] - 2023-12-22T15:18:10.510Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:18:10.592Z - Time taken for 'hash changed files from watcher' 0.8641999959945679ms
+[NX Daemon Server] - 2023-12-22T15:23:50.017Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:23:50.018Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:23:56.422Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:23:56.422Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts
+[NX Daemon Server] - 2023-12-22T15:23:56.423Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:23:56.512Z - Time taken for 'hash changed files from watcher' 1.4419000148773193ms
+[NX Daemon Server] - 2023-12-22T15:24:05.115Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:24:05.116Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:24:11.522Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:24:11.522Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html
+[NX Daemon Server] - 2023-12-22T15:24:11.522Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:24:11.573Z - Time taken for 'hash changed files from watcher' 0.3920999765396118ms
+[NX Daemon Server] - 2023-12-22T15:24:13.911Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:24:13.913Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:24:19.758Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:24:19.758Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:24:20.321Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:24:20.321Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.html,src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:24:20.321Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:24:20.388Z - Time taken for 'hash changed files from watcher' 0.6245999932289124ms
+[NX Daemon Server] - 2023-12-22T15:24:34.979Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:24:34.980Z - [WATCHER]: src/app/recipes/recipe-list/recipe-list.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:24:35.403Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:24:40.841Z - [WATCHER]: src/app/recipes/recipe-list/recipe-list.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:24:40.841Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:24:41.388Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:24:41.389Z - [REQUEST]: src/app/recipes/recipe-list/recipe-list.component.ts
+[NX Daemon Server] - 2023-12-22T15:24:41.389Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:24:41.476Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:24:41.476Z - Time taken for 'hash changed files from watcher' 0.6344999670982361ms
+[NX Daemon Server] - 2023-12-22T15:28:37.206Z - [WATCHER]: src/app/recipes/recipe.service.ts was modified
+[NX Daemon Server] - 2023-12-22T15:28:37.207Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:28:37.657Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:28:43.615Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:28:43.616Z - [REQUEST]: src/app/recipes/recipe.service.ts
+[NX Daemon Server] - 2023-12-22T15:28:43.616Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:28:43.675Z - Time taken for 'hash changed files from watcher' 0.8450000286102295ms
+[NX Daemon Server] - 2023-12-22T15:29:37.337Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:29:37.339Z - [WATCHER]: src/app/recipes/recipe.service.ts was modified
+[NX Daemon Server] - 2023-12-22T15:29:37.713Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:29:43.751Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:29:43.752Z - [REQUEST]: src/app/recipes/recipe.service.ts
+[NX Daemon Server] - 2023-12-22T15:29:43.752Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:29:43.824Z - Time taken for 'hash changed files from watcher' 0.531499981880188ms
+[NX Daemon Server] - 2023-12-22T15:30:19.500Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:30:19.502Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:30:19.899Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:30:25.916Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:30:25.916Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts
+[NX Daemon Server] - 2023-12-22T15:30:25.916Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:30:25.971Z - Time taken for 'hash changed files from watcher' 0.7836999893188477ms
+[NX Daemon Server] - 2023-12-22T15:32:43.139Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:32:43.141Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:32:43.521Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:32:43.546Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:32:49.762Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:32:49.762Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html
+[NX Daemon Server] - 2023-12-22T15:32:49.763Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:32:49.891Z - Time taken for 'hash changed files from watcher' 1.1396999955177307ms
+[NX Daemon Server] - 2023-12-22T15:43:14.898Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:43:14.899Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:43:15.603Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:43:21.306Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:43:21.306Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:43:21.306Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:43:21.366Z - Time taken for 'hash changed files from watcher' 0.948199987411499ms
+[NX Daemon Server] - 2023-12-22T15:45:53.919Z - [WATCHER]: src/app/recipes/recipe.service.ts was modified
+[NX Daemon Server] - 2023-12-22T15:45:53.919Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:45:54.352Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:46:00.325Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:46:00.326Z - [REQUEST]: src/app/recipes/recipe.service.ts
+[NX Daemon Server] - 2023-12-22T15:46:00.326Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:46:00.403Z - Time taken for 'hash changed files from watcher' 0.5582000017166138ms
+[NX Daemon Server] - 2023-12-22T15:46:07.978Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:46:07.979Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:46:08.493Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:46:14.385Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:46:14.385Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:46:14.385Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:46:14.452Z - Time taken for 'hash changed files from watcher' 0.8622999787330627ms
+[NX Daemon Server] - 2023-12-22T15:46:58.728Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:46:58.729Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:46:59.292Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:47:05.133Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:47:05.133Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:47:05.133Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:47:05.205Z - Time taken for 'hash changed files from watcher' 0.8461999893188477ms
+[NX Daemon Server] - 2023-12-22T15:47:28.375Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:47:28.375Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:47:28.905Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:47:34.781Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:47:34.781Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:47:34.781Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:47:34.847Z - Time taken for 'hash changed files from watcher' 0.310699999332428ms
+[NX Daemon Server] - 2023-12-22T15:48:10.915Z - [WATCHER]: src/app/recipes/recipe.service.ts was modified
+[NX Daemon Server] - 2023-12-22T15:48:10.915Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:48:11.369Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:48:17.319Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:48:17.319Z - [REQUEST]: src/app/recipes/recipe.service.ts
+[NX Daemon Server] - 2023-12-22T15:48:17.319Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:48:17.415Z - Time taken for 'hash changed files from watcher' 0.7858999967575073ms
+[NX Daemon Server] - 2023-12-22T15:48:30.365Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:48:30.365Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:48:30.801Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:48:36.769Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:48:36.770Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:48:36.770Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:48:36.821Z - Time taken for 'hash changed files from watcher' 0.33899998664855957ms
+[NX Daemon Server] - 2023-12-22T15:48:43.852Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:48:43.854Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:48:44.280Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:48:50.260Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:48:50.260Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:48:50.261Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:48:50.323Z - Time taken for 'hash changed files from watcher' 0.3644000291824341ms
+[NX Daemon Server] - 2023-12-22T15:49:47.131Z - [WATCHER]: src/app/recipes/recipe-detail/recipe-detail.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:49:47.131Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:49:47.588Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:49:53.546Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:49:53.546Z - [REQUEST]: src/app/recipes/recipe-detail/recipe-detail.component.ts
+[NX Daemon Server] - 2023-12-22T15:49:53.546Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:49:53.622Z - Time taken for 'hash changed files from watcher' 0.43459999561309814ms
+[NX Daemon Server] - 2023-12-22T15:50:57.230Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:50:57.231Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:50:57.686Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:51:03.633Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:51:03.634Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts
+[NX Daemon Server] - 2023-12-22T15:51:03.634Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:51:03.696Z - Time taken for 'hash changed files from watcher' 0.45910000801086426ms
+[NX Daemon Server] - 2023-12-22T15:51:22.989Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:51:22.990Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:51:23.257Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts was modified
+[NX Daemon Server] - 2023-12-22T15:51:23.258Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:51:23.603Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:51:29.603Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:51:29.603Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts
+[NX Daemon Server] - 2023-12-22T15:51:29.603Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:51:29.667Z - Time taken for 'hash changed files from watcher' 0.2590000033378601ms
+[NX Daemon Server] - 2023-12-22T15:53:56.135Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T15:53:56.137Z - [WATCHER]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html was modified
+[NX Daemon Server] - 2023-12-22T15:54:02.544Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-22T15:54:02.544Z - [REQUEST]: src/app/recipes/recipe-list/recipe-item/recipe-item.component.html
+[NX Daemon Server] - 2023-12-22T15:54:02.544Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-22T15:54:02.660Z - Time taken for 'hash changed files from watcher' 0.8235999941825867ms
+[NX Daemon Server] - 2023-12-22T16:17:55.634Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-22T16:17:55.743Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-22T16:18:43.050Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-22T16:18:43.118Z - [WATCHER]: Stopping the watcher for F:\Portfolio\recipe-app (sources)
+[NX Daemon Server] - 2023-12-22T16:18:43.119Z - [WATCHER]: Stopping the watcher for F:\Portfolio\recipe-app (outputs)
+[NX Daemon Server] - 2023-12-22T16:18:43.119Z - Server stopped because: "Lock file changed"
