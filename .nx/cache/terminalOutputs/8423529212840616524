@@ -1,0 +1,879 @@
+[36m-[39m Building...
+[2K[1G[1A[2K[1G[36m\[39m Building...
+[2K[1G[1A[2K[1G[36m|[39m Building...
+[2K[1G[1A[2K[1G[36m/[39m Building...
+[2K[1G[1A[2K[1G[36m-[39m Building...
+[2K[1G[1A[2K[1G[36m\[39m Building...
+[2K[1G[1A[2K[1G[36m|[39m Building...
+[2K[1G[1A[2K[1G[36m/[39m Building...
+[2K[1G[1A[2K[1G[36m-[39m Building...
+[2K[1G[1A[2K[1G[36m\[39m Building...
+[2K[1G[1A[2K[1G[36m|[39m Building...
+[2K[1G[1A[2K[1G[36m/[39m Building...
+[2K[1G[1A[2K[1G[36m-[39m Building...
+[2K[1G[1A[2K[1G[36m\[39m Building...
+[2K[1G[1A[2K[1G[36m|[39m Building...
+[2K[1G[1A[2K[1G[36m/[39m Building...
+[2K[1G[1A[2K[1G[36m-[39m Building...
+[2K[1G[1A[2K[1G[36m\[39m Building...
+[2K[1G[1A[2K[1G[36m|[39m Building...
+[2K[1G[1A[2K[1G[36m/[39m Building...
+[2K[1G[1A[2K[1G[36m-[39m Building...
+[2K[1G[1A[2K[1G[36m\[39m Building...
+[2K[1G[1A[2K[1G[36m|[39m Building...
+[2K[1G[1A[2K[1G[36m/[39m Building...
+[2K[1G[1A[2K[1G[36m-[39m Building...
+[2K[1G[1A[2K[1G[36m\[39m Building...
+[2K[1G[1A[2K[1G[36m|[39m Building...
+[2K[1G[1A[2K[1G[36m/[39m Building...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m271.21 kB[39m[37m[2m | [22m[39m
+[37m[92mscripts.js[39m[37m         [2m | [22mscripts      [2m | [22m[96m106.32 kB[39m[37m[2m | [22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m [96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m32.79 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m493.04 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [3.847 seconds][39m
+[37mWatch mode enabled. Watching for file changes...[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m32.81 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.412 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.02 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.303 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.06 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.158 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.15 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.289 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.24 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.197 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m/[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.25 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.529 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m/[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.23 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.484 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.25 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.357 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.28 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.224 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.30 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.225 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.145 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m33.33 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.471 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.52 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.321 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.71 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.236 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.78 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.502 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.98 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.271 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.127 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.05 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.216 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.09 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.152 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.08 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.145 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.148 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.158 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.154 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.151 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.18 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.190 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.08 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.387 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.24 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.209 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.25 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.126 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.25 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.246 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.28 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.440 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m/[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'void' is not assignable to type 'Recipe'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:6:[39m[22m
+[1m[31m[37m      21 │       [32mthis.selectedRecipeDetails[37m = this.recipeService.filterRecipe...[39m[22m
+[1m[31m         ╵       [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.494 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2739: Type 'Recipe[]' is missing the following properties from type 'Recipe': name, imageUrl, description, miniDescription, ingredients[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:6:[39m[22m
+[1m[31m[37m      21 │       [32mthis.selectedRecipeDetails[37m = this.recipeService.filterRecipe...[39m[22m
+[1m[31m         ╵       [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.177 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'imageUrl' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:3:38:[39m[22m
+[1m[31m[37m      3 │     <img [src]="selectedRecipeDetails.[32mimageUrl[37m"[39m[22m
+[1m[31m        ╵                                       [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'name' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:11:54:[39m[22m
+[1m[31m[37m      11 │     <p class="text-center h1">{{selectedRecipeDetails.[32mname[37m}}</p>[39m[22m
+[1m[31m         ╵                                                       [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:27:63:[39m[22m
+[1m[31m[37m      27 │ ...ppingList(selectedRecipeDetails.[32mingredients[37m)">Add to list</a></li>[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;[39m[22m[1m[31m97mERROR[41;31m][0m [1mNG9: Property 'description' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:35:49:[39m[22m
+[1m[31m[37m      35 │   <div class="col-xs-12">{{selectedRecipeDetails.[32mdescription[37m}}</div>[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:43:57:[39m[22m
+[1m[31m[37m      43 │ ...     *ngFor="let ingredient of selectedRecipeDetails.[32mingredients[37m">[39m[22m
+[1m[31m         ╵                                                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'Recipe[]' is not assignable to type 'string'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:22:6:[39m[22m
+[1m[31m[37m      22 │       [32mthis.recipeName[37m = this.recipeService.filterRecipeByName(para...[39m[22m
+[1m[31m         ╵       [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.270 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'updateShoppingList' does not exist on type 'RecipeDetailComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:27:22:[39m[22m
+[1m[31m[37m      27 │              (click)="[32mupdateShoppingList[37m(selectedRecipeDetails.ing...[39m[22m
+[1m[31m         ╵                       [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type '(...: any[], this: any, recipeService: any, filterRecipeByName: any) => any' is not assignable to type 'Recipe'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:6:[39m[22m
+[1m[31m[37m      21 │       [32mthis.selectedRecipeDetails[37m = (...this.recipeService.filterRe...[39m[22m
+[1m[31m         ╵       [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1359: Identifier expected. 'this' is a reserved word that cannot be used here.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:39:[39m[22m
+[1m[31m[37m      21 │ ...s.selectedRecipeDetails = (...[32mthis[37m.recipeService.filterRecipeBy...[39m[22m
+[1m[31m         ╵                                  [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2680: A 'this' parameter must be the first parameter.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:39:[39m[22m
+[1m[31m[37m      21 │ ...s.selectedRecipeDetails = (...[32mthis[37m.recipeService.filterRecipeBy...[39m[22m
+[1m[31m         ╵                                  [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2730: An arrow function cannot have a 'this' parameter.[0m [1m[39m[22m[1m[31m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:39:[39m[22m
+[1m[31m[37m      21 │ ...s.selectedRecipeDetails = (...[32mthis[37m.recipeService.filterRecipeBy...[39m[22m
+[1m[31m         ╵                                  [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ',' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:43:[39m[22m
+[1m[31m[37m      21 │ ...electedRecipeDetails = (...this[32m.[37mrecipeService.filterRecipeByNam...[39m[22m
+[1m[31m         ╵                                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ',' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:57:[39m[22m
+[1m[31m[37m      21 │ ...etails = (...this.recipeService[32m.[37mfilterRecipeByName(params.get('...[39m[22m
+[1m[31m         ╵                                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ',' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:76:[39m[22m
+[1m[31m[37m      21 │ ...ils = (...this.recipeService.filterRecipeByName[32m([37mparams.get('id')))[39m[22m
+[1m[31m         ╵                                                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ';' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:94:[39m[22m
+[1m[31m[37m      21 │ ...ils = (...this.recipeService.filterRecipeByName(params.get('id'))[32m)[37m[39m[22m
+[1m[31m         ╵                                                                     [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1068: Unexpected token. A constructor, method, accessor, or property was expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:22:5:[39m[22m
+[1m[31m[37m      22 │     }[32m)[37m[39m[22m
+[1m[31m         ╵      [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1[39m[22m[1m[31mmTS2304: Cannot find name 'updateShoppingList'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:24:2:[39m[22m
+[1m[31m[37m      24 │   [32mupdateShoppingList[37m(ingredientList:Ingredient[]) {[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'ingredientList'. Did you mean 'Ingredient'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:24:21:[39m[22m
+[1m[31m[37m      24 │   updateShoppingList([32mingredientList[37m:Ingredient[]) {[39m[22m
+[1m[31m         ╵                      [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ',' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:24:35:[39m[22m
+[1m[31m[37m      24 │   updateShoppingList(ingredientList[32m:[37mIngredient[]) {[39m[22m
+[1m[31m         ╵                                    [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1011: An element access expression should take an argument.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:24:47:[39m[22m
+[1m[31m[37m      24 │   updateShoppingList(ingredientList:Ingredient[[32m[37m]) {[39m[22m
+[1m[31m         ╵                                                [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ';' expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:24:50:[39m[22m
+[1m[31m[37m      24 │   updateShoppingList(ingredientList:Ingredient[]) [32m{[37m[39m[22m
+[1m[31m         ╵                                                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2532: Object is possibly 'undefined'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:25:4:[39m[22m
+[1m[31m[37m      25 │     [32mthis[37m.shoppingService.addIngredients(ingredientList);[39m[22m
+[1m[31m         ╵     [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;9[39m[22m[1m[31m7mERROR[41;31m][0m [1mTS2552: Cannot find name 'ingredientList'. Did you mean 'Ingredient'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:25:40:[39m[22m
+[1m[31m[37m      25 │     this.shoppingService.addIngredients([32mingredientList[37m);[39m[22m
+[1m[31m         ╵                                         [32m~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected ","[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:26:45:[39m[22m
+[1m[31m[37m      26 │ ...is.selectedRecipeDetails = (...[32m,[37m recipeService, filterRecipeByN...[39m[22m
+[1m[31m         ╵                                   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS1128: Declaration or statement expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:28:0:[39m[22m
+[1m[31m[37m      28 │ [32m}[37m[39m[22m
+[1m[31m         ╵ [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.320 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'imageUrl' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:3:38:[39m[22m
+[1m[31m[37m      3 │     <img [src]="selectedRecipeDetails.[32mimageUrl[37m"[39m[22m
+[1m[31m        ╵                                       [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'name' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:11:54:[39m[22m
+[1m[31m[37m      11 │     <p class="text-center h1">{{selectedRecipeDetails.[32mname[37m}}</p>[39m[22m
+[1m[31m         ╵                                                       [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:27:63:[39m[22m
+[1m[31m[37m      27 │ ...ppingList(selectedRecipeDetails.[32mingredients[37m)">Add to list</a></li>[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;[39m[22m[1m[31m97mERROR[41;31m][0m [1mNG9: Property 'description' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:35:49:[39m[22m
+[1m[31m[37m      35 │   <div class="col-xs-12">{{selectedRecipeDetails.[32mdescription[37m}}</div>[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:43:57:[39m[22m
+[1m[31m[37m      43 │ ...     *ngFor="let ingredient of selectedRecipeDetails.[32mingredients[37m">[39m[22m
+[1m[31m         ╵                                                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.279 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'imageUrl' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:3:38:[39m[22m
+[1m[31m[37m      3 │     <img [src]="selectedRecipeDetails.[32mimageUrl[37m"[39m[22m
+[1m[31m        ╵                                       [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'name' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:11:54:[39m[22m
+[1m[31m[37m      11 │     <p class="text-center h1">{{selectedRecipeDetails.[32mname[37m}}</p>[39m[22m
+[1m[31m         ╵                                                       [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:27:63:[39m[22m
+[1m[31m[37m      27 │ ...ppingList(selectedRecipeDetails.[32mingredients[37m)">Add to list</a></li>[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;[39m[22m[1m[31m97mERROR[41;31m][0m [1mNG9: Property 'description' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:35:49:[39m[22m
+[1m[31m[37m      35 │   <div class="col-xs-12">{{selectedRecipeDetails.[32mdescription[37m}}</div>[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:43:57:[39m[22m
+[1m[31m[37m      43 │ ...     *ngFor="let ingredient of selectedRecipeDetails.[32mingredients[37m">[39m[22m
+[1m[31m         ╵                                                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2740: Type 'Recipe' is missing the following properties from type 'Recipe[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:6:[39m[22m
+[1m[31m[37m      21 │       [32mthis.selectedRecipeDetails[37m = this.recipeService.filterRecipe...[39m[22m
+[1m[31m         ╵       [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.218 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'imageUrl' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:3:38:[39m[22m
+[1m[31m[37m      3 │     <img [src]="selectedRecipeDetails.[32mimageUrl[37m"[39m[22m
+[1m[31m        ╵                                       [32m~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'name' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:11:54:[39m[22m
+[1m[31m[37m      11 │     <p class="text-center h1">{{selectedRecipeDetails.[32mname[37m}}</p>[39m[22m
+[1m[31m         ╵                                                       [32m~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:27:63:[39m[22m
+[1m[31m[37m      27 │ ...ppingList(selectedRecipeDetails.[32mingredients[37m)">Add to list</a></li>[39m[22m
+[1m[31m         ╵                                    [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;[39m[22m[1m[31m97mERROR[41;31m][0m [1mNG9: Property 'description' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:35:49:[39m[22m
+[1m[31m[37m      35 │   <div class="col-xs-12">{{selectedRecipeDetails.[32mdescription[37m}}</div>[39m[22m
+[1m[31m         ╵                                                  [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'ingredients' does not exist on type 'Recipe[]'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.html:43:57:[39m[22m
+[1m[31m[37m      43 │ ...     *ngFor="let ingredient of selectedRecipeDetails.[32mingredients[37m">[39m[22m
+[1m[31m         ╵                                                         [32m~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeDetailComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:10:15:[39m[22m
+[1m[31m[37m      10 │   templateUrl: [32m'./recipe-detail.component.html'[37m,[39m[22m
+[1m[31m         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2740: Type 'Recipe' is missing the following properties from type 'Recipe[]': length, pop, push, concat, and 29 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-detail/recipe-detail.component.ts:21:6:[39m[22m
+[1m[31m[37m      21 │       [32mthis.selectedRecipeDetails[37m = this.recipeService.filterRecipe...[39m[22m
+[1m[31m         ╵       [32m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.249 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m271.21 kB[39m[37m[2m | [22m[39m
+[37m[92mscripts.js[39m[37m         [2m | [22mscripts      [2m | [22m[96m106.32 kB[39m[37m[2m | [22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m [96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m34.58 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m494.83 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.186 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.228 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.337 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 4[39m
+[37mApplication bundle generation complete. [0.078 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'recipe' does not exist on type 'RecipeItemComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.html:3:18:[39m[22m
+[1m[31m[37m      3 │    [routerLink]="[[32mrecipe[37m.name]">[39m[22m
+[1m[31m        ╵                   [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeItemComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts:5:15:[39m[22m
+[1m[31m[37m      5 │   templateUrl: [32m'./recipe-item.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'recipe' does not exist on type 'RecipeItemComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.html:6:8:[39m[22m
+[1m[31m[37m      6 │       {{[32mrecipe[37m.name}}[39m[22m
+[1m[31m        ╵         [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeItemComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts:5:15:[39m[22m
+[1m[31m[37m      5 │   templateUrl: [32m'./recipe-item.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'recipe' does not exist on type 'RecipeItemComponent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.html:8:38:[39m[22m
+[1m[31m[37m      8 │     <p class="list-group-item-text">{{[32mrecipe[37m.miniDescription}}</p>[39m[22m
+[1m[31m        ╵                                       [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeItemComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts:5:15:[39m[22m
+[1m[31m[37m      5 │   templateUrl: [32m'./recipe-item.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'recipe' does not exist on type 'RecipeItemComp[39m[22m[1m[31monent'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.html:11:16:[39m[22m
+[1m[31m[37m      11 │     <img src="{{[32mrecipe[37m.imageUrl}}"[39m[22m
+[1m[31m         ╵                 [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component RecipeItemComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts:5:15:[39m[22m
+[1m[31m[37m      5 │   templateUrl: [32m'./recipe-item.component.html'[37m,[39m[22m
+[1m[31m        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[1A[2K[1G[37mApplication bundle generation failed. [0.217 seconds][39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m\[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[36m|[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m271.21 kB[39m[37m[2m | [22m[39m
+[37m[92mscripts.js[39m[37m         [2m | [22mscripts      [2m | [22m[96m106.32 kB[39m[37m[2m | [22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m [96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m34.40 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m494.64 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.395 seconds][39m
+[37mPage reload sent to client(s).[39m
+[36m-[39m Changes detected. Rebuilding...
+[2K[1G[1A[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m34.47 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.111 seconds][39m
+[37mPage reload sent to client(s).[39m
